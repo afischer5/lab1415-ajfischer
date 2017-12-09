@@ -10,4 +10,4 @@
     
 # Q2
     A read world map may require more than four colors if countries are not contiguous ie angola.
-    or in the event of a non planar 3d map where the dimenalitiy of possible edges is very different.
+    or in the event of a non planar 3d map where the dimenalitiy of possible edges is very different.# lab1415-ajfischer
