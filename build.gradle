@@ -13,7 +13,7 @@ apply plugin: 'com.github.ben-manes.versions'
 
 
 libsDirName = 'lib' // simple workaround for error in startScripts task
-mainClassName = 'edu.luc.cs271.graph.main' // TODO change this setting to match your main class
+mainClassName = 'edu.luc.cs271.graph.Main' // TODO change this setting to match your main class
 
 jar {
     manifest {

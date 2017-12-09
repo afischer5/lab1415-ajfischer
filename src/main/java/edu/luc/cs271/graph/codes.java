@@ -1,3 +1,5 @@
+package edu.luc.cs271.graph;
+
 public class codes{
   
   final static String FR = "France";
